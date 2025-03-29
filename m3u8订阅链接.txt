@@ -16,3 +16,8 @@ https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/refs/heads/master/IPTV-M
 
 IPTV-Unicom.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/refs/heads/master/IPTV-Unicom.m3u
+
+ChinaTelecom-GuangdongIPTV-RTP-List
+
+GuangdongIPTV_rtp.m3u8
+https://raw.githubusercontent.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/refs/heads/master/GuangdongIPTV_rtp.m3u8
