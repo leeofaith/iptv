@@ -1,0 +1,18 @@
+YueChan/Live https://github.com/YueChan/Live
+
+APTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
+
+IPTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
+
+Radio.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
+
+qwerttvv/Beijing-IPTV https://github.com/qwerttvv/Beijing-IPTV
+
+IPTV-Mobile.m3u
+https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/refs/heads/master/IPTV-Mobile.m3u
+
+IPTV-Unicom.m3u
+https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/refs/heads/master/IPTV-Unicom.m3u
